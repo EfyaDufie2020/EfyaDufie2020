@@ -1,6 +1,6 @@
 - 👋 Hi, I am Mercy Dufie Boateng
 - Data Analsyt| Front-End Developer
-- Skills MicrosoftPowerBI | Python | SQL |HTML |CSS |Javascript
+- Skills: MicrosoftPowerBI | Python | SQL |HTML |CSS |Javascript
 - 🌱 I’m currently learning #DataScience&Analytics #FrontEndDevelopment
 - 💞️ I’m looking to collaborate on projects in #DataScience&Analytics #FrontEndDevelopment
 - 📫 You can contact me @ mercydufieboateng@ymail.com
