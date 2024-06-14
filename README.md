@@ -1,9 +1,9 @@
 - 👋 Hi, I am Mercy Dufie Boateng
-- Data Analsyt| Front-End Developer
-- Skills: MicrosoftPowerBI | Python | SQL |HTML |CSS |Javascript
-- 🌱 I’m currently learning DataScience & Analytics and Front-End Development
-- 💞️ I’m looking to collaborate on projects in #DataScience&Analytics #FrontEndDevelopment
-- 📫 You can contact me @ mercydufieboateng@ymail.com
+- Data Analsyt
+- Skills: MicrosoftPowerBI | Exce| Python | SQL |HTML |CSS |Javascript
+- 🌱 I’m currently DataScience & Analytics and Front-End Development
+- 💞️ I’m looking to collaborate on projects in Data Analytics & Data Science
+- 📫 You can contact me @ mercydboateng@gmail.com
 
 <!---
 EfyaDufie2020/EfyaDufie2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
