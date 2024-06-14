@@ -1,7 +1,7 @@
 - 👋 Hi, I am Mercy Dufie Boateng
-- Data Analsyt
+- I am a Data Analsyt
 - Skills: MicrosoftPowerBI | Exce| Python | SQL |HTML |CSS |Javascript
-- 🌱 I’m currently DataScience & Analytics and Front-End Development
+- 🌱 I’m currently DataScience & Analytics 
 - 💞️ I’m looking to collaborate on projects in Data Analytics & Data Science
 - 📫 You can contact me @ mercydboateng@gmail.com
 
