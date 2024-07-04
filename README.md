@@ -2,7 +2,7 @@
 - I am a Data Analsyt
 - I specialize in transforming messy data into actionable insights that drive business growth
 - Skills: Exce| Python | SQL |MicrosoftPowerBI | Tableau | Basic Knowledge in HTML, CSS, & JavaScript
-- 🌱 I’m currently DataScience & Analytics 
+- 🌱 I’m currently learning Data Engineering & AI
 - 💞️ I’m looking to collaborate on projects in Data Analytics & Data Science
 - 📫 You can contact me @ mercydboateng@gmail.com
 
