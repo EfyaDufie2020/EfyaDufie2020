@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
@@ -45,6 +45,24 @@
 
 ---
 
+## 📂 Featured Projects  
+
+### 🌍 Environmental Impact of Food Production  
+🔗 [GitHub Repo](https://github.com/EfyaDufie2020/Environment-Impact-of-Food-Production-Analysis.git)  
+- Analyzed global emissions data to compare environmental footprints of plant-based vs. animal-based foods  
+- Identified that animal-based foods generate **5x more CO₂ emissions** per 100g of protein  
+- Built visualizations in **Python (Pandas, Seaborn, Matplotlib)**  
+
+---
+
+### 🚚 Transborder Freight Data Analysis  
+🔗 [GitHub Repo](https://github.com/EfyaDufie2020/Transborder-Freight-Data-Analysis-.git)  
+- Analyzed **1M+ U.S. transborder freight records** to uncover top trading partners and trends  
+- Found that **70% of trade volume moved by truck** with 15% YoY growth in Mexico-bound exports  
+- Built dashboards to track freight movement using **Python & Seaborn**  
+
+---
+
 ## 🔥 My GitHub Stats  
 
 <div align="center">
@@ -52,5 +70,14 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=EfyaDufie2020&show_icons=true&theme=dark" height="200"/>
 </div>
+
+---
+
+## 🎉 Fun Fact / Outside of Work  
+
+- ✈️ I love exploring new cultures and cuisines  
+- 🎤 I enjoy mentoring and teaching others about data and tech  
+- 📚 I spend my free time learning and experimenting with new data tools  
+- 🎶 Music keeps me energized while coding  
 
 ---
