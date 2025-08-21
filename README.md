@@ -45,24 +45,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### 🌍 Environmental Impact of Food Production  
-🔗 [GitHub Repo](https://github.com/EfyaDufie2020/Environment-Impact-of-Food-Production-Analysis.git)  
-- Analyzed global emissions data to compare environmental footprints of plant-based vs. animal-based foods  
-- Identified that animal-based foods generate **5x more CO₂ emissions** per 100g of protein  
-- Built visualizations in **Python (Pandas, Seaborn, Matplotlib)**  
-
----
-
-### 🚚 Transborder Freight Data Analysis  
-🔗 [GitHub Repo](https://github.com/EfyaDufie2020/Transborder-Freight-Data-Analysis-.git)  
-- Analyzed **1M+ U.S. transborder freight records** to uncover top trading partners and trends  
-- Found that **70% of trade volume moved by truck** with 15% YoY growth in Mexico-bound exports  
-- Built dashboards to track freight movement using **Python & Seaborn**  
-
----
-
 ## 🔥 My GitHub Stats  
 
 <div align="center">
