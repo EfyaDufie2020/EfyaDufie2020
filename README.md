@@ -28,7 +28,7 @@ Passionate about transforming data into actionable insights, building scalable A
 
 <div align="center">
 
-### 1. Language & Analytics
+### Language & Analytics
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
 <img width="12" />
@@ -46,7 +46,7 @@ Passionate about transforming data into actionable insights, building scalable A
 
 ---
 
-### 2. Data Visualization & BI
+### Data Visualization & BI
 
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="power bi" />
 <img width="12" />
@@ -55,7 +55,7 @@ Passionate about transforming data into actionable insights, building scalable A
 
 ---
 
-### 3. Cloud, Infrastructure & Data Engineering
+### Cloud, Infrastructure & Data Engineering
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
 <img width="12" />
@@ -73,7 +73,7 @@ Passionate about transforming data into actionable insights, building scalable A
 
 ---
 
-### 4. Web Technologies
+### Web Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
 <img width="12" />
