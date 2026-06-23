@@ -11,7 +11,7 @@ Data Analyst | Data Engineer | AWS Cloud Professional | Community Builder
 </h3>
 
 <p align="center">
-Passionate about transforming data into actionable insights, building scalable AWS cloud solutions and creating opportunities for women in technology across Africa.
+Driving impact through data analytics, scalable AWS cloud solutions and initiatives that create & expand inclusive opportunities for women in technology across Africa.
 </p>
 
 - 💼 Expertise in **Data Analytics, Data Engineering, Cloud Infrastructure & AWS**
